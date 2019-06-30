@@ -30,6 +30,7 @@ https://golang.org/doc/install
 ## Build
 
 * `go build`
+and then go client directory and run the same 'go build' command
 
 ## Run
 
