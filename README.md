@@ -26,7 +26,7 @@ This codebase was created to create client/server websocket application to imple
 
 ## Install the Golang
 https://golang.org/doc/install
-```
+
 ## Build
 
 * `go build`
